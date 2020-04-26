@@ -1,0 +1,133 @@
+/*--header start--*/
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: honeydew;
+}
+.container{
+    background-color: aquamarine;
+    
+    max-width: 1000px;
+    
+    margin:0 auto;
+    
+}
+.curriculum{
+    text-align: center;
+    text-decoration: underline;
+}
+h1,h2,h3,h4,h5,h6{
+    color: brown;
+}
+.header-bio-left{
+    float:left;
+    width:80%;
+   
+}
+.header-bio-right{
+    float: right;
+    width:20%;
+   
+}
+.image-profile{
+    height : 150px;
+    width : 120px;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin-left: 25px;
+}
+.header-bio-left a{
+    margin-left: 25px;
+    text-decoration: none;
+}
+.header-bio-left a:hover{
+    text-decoration: underline;
+    color:tomato;
+}
+.div-clear{
+    clear: both;
+    padding: 20px;
+}
+hr{
+    border: solid 2px black;
+}
+/*------------------------header end------------------------*/
+/*------------------------section1 start------------------------*/
+.CAREER{
+    
+}
+.under-line{
+    text-decoration: underline;
+}
+/*--------------------- vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvcfccccccccccccccc---section1 end------------------------*/
+/*------------------------section2 start------------------------*/
+.basic{
+    
+}
+.Under-margin-left50{
+    margin-left: 50px;
+    text-decoration: underline;
+    color:palevioletred;
+}
+/*------------------------section2 end------------------------*/
+.Under--margin-left100{
+    margin-left: 100px;
+    color:royalblue;
+}
+/*------------------------section3 start------------------------*/
+.language{
+    float:left;
+    padding: 5px;  
+}
+
+/*------------------------section3 end------------------------*/
+
+
+/*------------------------section4 start------------------------*/
+.biography{
+    text-align: center;
+    text-decoration: underline;
+}
+.biography-left{
+   float: left;
+   width:50%;
+   text-align: center;
+}
+.biography-right{
+  float: right;
+  width:50%;
+}
+
+/*------------------------section4 end------------------------*/
+
+
+/*------------------------section5 start------------------------*/
+
+/*------------------------footer start------------------------*/
+.reference a{
+    margin-left: 100px;
+    text-decoration: none;
+}
+.reference a:hover{
+    text-decoration: underline;
+    color:tomato;
+}
+
+.bottom{
+    background-color: black;
+    height: 100px;
+    text-align:center;
+    padding: 20px;
+}
+.bottom a{
+    color:white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom p{
+    color:white;
+    text-decoration: none;
+    margin: 20px;
+    /*------------------------footer end------------------------*/
